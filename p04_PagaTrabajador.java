@@ -21,10 +21,10 @@ public class p04_PagaTrabajador {
         impuesto = pagabruta * tasa;
         paganeta = pagabruta - impuesto;
         //Salida
-        System.out.println(String.format("El trabajador %s trabajo %d horas con una paga de %2.f pesos y una tasa de %2.f",nombre,horas,paga,tasa));
-        System.out.println(String.format("paga bruta   : %.2f",pagabruta));
-        System.out.println(String.format("Impuesto     : %.2f",impuesto));
-        System.out.println(String.format("paga neta    : %.2f",paganeta));
+        System.out.println(String.format("El trabajador %s trabajó %d horas con una paga de %.2f pesos y una tasa de %.2f", nombre, horas, paga, tasa));
+        System.out.println(String.format("Paga bruta   : %.2f", pagabruta));
+        System.out.println(String.format("Impuesto     : %.2f", impuesto));
+        System.out.println(String.format("Paga neta    : %.2f", paganeta));
 
 
 
