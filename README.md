@@ -16,7 +16,7 @@
  - p08_FuncionesTrigonometricas
  - p09_dividir_en_cifras
 
- ## Practica 1
+ ## Practica 1 - Elementos basicos de java
  - p10_HipotenusaTriangulo
  - p11_CalcularAngulo
  - p12_ConvertirTemperatura
@@ -24,11 +24,16 @@
  - p14_CalculoTiempo
  - p15_ConvertirADolares
  
- ## Actividad 3
+ ## Actividad 3 - Trabajando con Numeros
  - p16_TrabajandoEnteros
  - p17_TrabajandoFlotantes
  - p18_TrabajandoConstantes
  - p19_TrabajandoCaracteres
  - p20_ConversionTipos
-
+ 
+ ## Actividad 4 - Ejecucion Condicional
+ - p21_VerificarNumero
+ - p22_VerificarSuma
+ - p23_ConvertirTemperaturaV2
+ - p24_PagaTrabajadorv2
 
