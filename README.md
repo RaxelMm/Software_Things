@@ -1,7 +1,7 @@
 # PROGRAMACION ORIENTADA A OBJETOS 1 Y LABORATORIO
--Nombre: Axel Uriel Marquez Morales
+- Nombre: Axel Uriel Marquez Morales
 
--Email: axelito322005@gmail.com
+- Email: axelito322005@gmail.com
 
 ## Actividad 1
  - p01_HolaMundo
@@ -30,10 +30,15 @@
  - p18_TrabajandoConstantes
  - p19_TrabajandoCaracteres
  - p20_ConversionTipos
- 
+
  ## Actividad 4 - Ejecucion Condicional
  - p21_VerificarNumero
  - p22_VerificarSuma
  - p23_ConvertirTemperaturaV2
  - p24_PagaTrabajadorv2
 
+ ## Actividad 5 - Ejecucion Condicional P2
+ - p25_EstacionesAño
+ - p26_TipoAngulo
+ - p27_AceptarEstudiante
+ - p28_LeyDeNewton
