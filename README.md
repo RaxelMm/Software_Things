@@ -1,6 +1,5 @@
 # PROGRAMACION ORIENTADA A OBJETOS 1 Y LABORATORIO
 - Nombre: Axel Uriel Marquez Morales
-
 - Email: axelito322005@gmail.com
 
 ## Actividad 1
@@ -42,3 +41,9 @@
  - p26_TipoAngulo
  - p27_AceptarEstudiante
  - p28_LeyDeNewton
+
+ ## Actividad 6 - Ejecucion condicional P3
+ - p29_Calculadora
+ - p30_DiaSemana
+ - p31_NumerosRomanos
+ - p32_PagoEstacionamiento
