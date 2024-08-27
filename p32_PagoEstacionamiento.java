@@ -17,6 +17,8 @@ public class p32_PagoEstacionamiento {
         System.out.println("Estacionamiento [O]este - 20% ");
         System.out.println("Elige");
         est = Character.toUpperCase(teclado.next().charAt(0));
+        teclado.close();
+
 
         switch (est) {
             case 'N': imp = 0.03f; break;
@@ -26,6 +28,7 @@ public class p32_PagoEstacionamiento {
         
             default: System.out.println("Error");
                 break;
+
         }
 
         System.out.println("Cuanto pagaste? :"); pago = teclado.nextFloat();

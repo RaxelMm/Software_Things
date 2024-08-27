@@ -12,6 +12,7 @@ public class p31_NumerosRomanos {
         System.out.println("Dame un numero entre 1 y 10 y  te mostrare su equivalencia en numeros romanos ");
 
         int num = new Scanner(System.in).nextInt();
+        
 
         switch (num) {
             case 1:
@@ -50,7 +51,7 @@ public class p31_NumerosRomanos {
                 break;
         }
         System.out.println("Bien");
-
+        
     }
 
 }
