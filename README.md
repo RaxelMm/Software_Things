@@ -62,3 +62,9 @@
  - p41_ProcesaCalificacion
  - p42_TablaMultiplicar
  - p43_ConteoNumeros
+
+ ## Actividad 8 - Ejecucion repetitiva P2
+ - p44_ParesAscendente
+ - p45_ImparesDescendente
+ - p46_TablaConversion
+ - p47_ConjeturaCollatz
