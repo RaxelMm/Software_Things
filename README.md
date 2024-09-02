@@ -69,7 +69,7 @@
  - p46_TablaConversion
  - p47_ConjeturaCollatz
 
- ## Pratica 03 - Ejecucion repetitiva
+ ## Practica 03 - Ejecucion repetitiva
  - p48_ImparesAscendente
  - p49_ParesDescendente
  - p50_ConversionTemperaturas
