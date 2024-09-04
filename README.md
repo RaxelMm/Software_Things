@@ -81,3 +81,9 @@
  - p54_ArribaAbajo
  - p55_SumaParesImpares
  - p56_SumaPromedio
+
+ ## Actividad 10 - Ejecucion repetitiva P4
+ - p57_TablasMultiplicar
+ - p58_Piramide
+ - p59_FactorialNumeros
+ - p60_SumaTerminos
