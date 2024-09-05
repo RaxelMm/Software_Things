@@ -5,7 +5,7 @@
     
     import java.util.Scanner;
 
-public class p64_SecuenciaTerminos {
+public class p64_SumaTerminos2 {
     public static void main(String[] args) {
         // Limpiar pantalla (opcional para algunos sistemas)
         System.out.print("\033[H\033[2J"); 
