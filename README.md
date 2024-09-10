@@ -96,3 +96,6 @@
 
  ## Practica 05
  - p65_SistemaPapeleria
+
+ ## Primer Examen Parcial
+ - ep01_PrimerExamenParcial
