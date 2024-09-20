@@ -114,3 +114,9 @@
  - p74_Factorial
  - p75_CuadroCaracter
 
+ ## Practica 06 - Funciones
+ - p76_NumeroMenor
+ - p77_DiaSemana  
+ - p78_MedidasLongitud  
+ - p79_SumaMultiplos
+ - p80_Angulo
