@@ -120,3 +120,10 @@
  - p78_MedidasLongitud  
  - p79_SumaMultiplos
  - p80_Angulo
+
+ ## Actividad 13 - Arreglos
+ - p81_InicializaArregloNumero
+ - p82_InicializaArregloCadenas
+ - p83_InicializaNombresEdades
+ - p84_PromedioArreglo
+ - p85_NombresEdades
