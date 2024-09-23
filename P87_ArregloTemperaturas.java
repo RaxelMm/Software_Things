@@ -1,7 +1,7 @@
 /**
  * P87_ArregloTemperaturas -  Mostrar, Mayor , Menor u buscar un arreglo
  */
-public class P87_ArregloTemperaturas {
+public class p87_ArregloTemperaturas {
     public static void Mostrar (double[] x){
         for(int i = 0; i<x.length ; i++)
             System.out.print(x[i] + " ");
