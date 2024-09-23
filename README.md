@@ -127,3 +127,9 @@
  - p83_InicializaNombresEdades
  - p84_PromedioArreglo
  - p85_NombresEdades
+
+ ## Actividad 14 - Arreglos P2
+ - p86_ArregloMostrar
+ - P87_ArregloTemperaturas
+ - p88_Aletorios
+ - p89_ArregloAletorios
