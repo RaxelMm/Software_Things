@@ -133,3 +133,6 @@
  - P87_ArregloTemperaturas
  - p88_Aletorios
  - p89_ArregloAletorios
+
+ ## Practica 7 - Arreglos
+ - p90_Temperaturas
