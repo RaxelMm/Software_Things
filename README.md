@@ -136,3 +136,6 @@
 
  ## Practica 7 - Arreglos
  - p90_Temperaturas
+ - p91_MayoresPromedio
+ - p92_MayorMenor
+ - p93_ParesImpares 
