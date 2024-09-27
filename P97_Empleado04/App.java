@@ -1,4 +1,4 @@
-package P97_Empleado04;
+package p97_Empleado04;
 import java.util.ArrayList;
 
 public class App {
