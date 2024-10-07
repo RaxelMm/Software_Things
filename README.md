@@ -159,3 +159,8 @@
  ## Practica 09 - Composicion
  - p104_PuntoCirculo
  - p105_PuntoTriangulo
+
+ ## Actividad 17 - Herencia
+ - p106_Persona
+ - p107_Forma
+ 
