@@ -199,3 +199,11 @@
  - p126_Excepcion6
  - p127_MiExcepcion
 
+ ## Practica 13 - Manejo de Excepciones
+ - p128_ExcepcionRaiz
+ - p129_ExcepcionDulce
+ - p130_ExcepcionEdades
+ - p131_ExcepcionTemperatura
+
+
+
