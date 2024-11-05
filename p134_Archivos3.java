@@ -6,7 +6,8 @@ public class p134_Archivos3 {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.flush(); // Borrar pantalla de la consola
-        File arch = new File("Ciudades.txt");
+        File arch = new File("Materias.txt");
+        
         if (arch.exists()) {
             try {
                 BufferedReader fciudades = new BufferedReader(new FileReader(arch));
