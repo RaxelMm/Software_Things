@@ -217,4 +217,10 @@
  - p138_ArchivoMaterias
  - p139_ArchivoEstudiante 
 
+ ## Actividad 24 - Interfaces graficas
+ - p140_HolaMundoGUI
+ - p141_AreaTrianguloGUI
+ - p142_LeyDeNewtonGUI
+ 
+
 
