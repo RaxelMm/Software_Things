@@ -221,6 +221,10 @@
  - p140_HolaMundoGUI
  - p141_AreaTrianguloGUI
  - p142_LeyDeNewtonGUI
+
+ ## Practica 15 - Interfaces graficas
+ - p143_PagaTrabjador
+ - p144_Temperaturas
  
 
 
