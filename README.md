@@ -225,6 +225,9 @@
  ## Practica 15 - Interfaces graficas
  - p143_PagaTrabjador
  - p144_Temperaturas
+ - p145_EstudianteGUI_V1
  
+ ## Actividad 25
+ - p146_EstudianteGUI_V2
 
 
