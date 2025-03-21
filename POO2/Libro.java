@@ -27,7 +27,7 @@ public class Libro {
 
         System.out.print("Ingrese el año de publicación: ");
         int fecha = scanner.nextInt();
-
+        scanner.close();
         return new Libro(titulo, autor, fecha);
     }
 
@@ -39,4 +39,5 @@ public class Libro {
         Libro libro = capturarDatos();
         System.out.println(libro.mostrarInfo());
     }
+
 }
