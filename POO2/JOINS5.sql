@@ -84,8 +84,8 @@ SELECT
   e.departamento,
   p.nombre_proyecto
 FROM Proyectos p
-LEFT JOIN Asignaciones a ON p.id_proyecto = a.id_proyecto
-LEFT JOIN Empleados e ON a.id_empleado = e.id_empleado
+RIGHT JOIN Asignaciones a ON p.id_proyecto = a.id_proyecto
+RIGHT JOIN Empleados e ON a.id_empleado = e.id_empleado
 WHERE a.id_proyecto IS NULL;
 
 
