@@ -1,0 +1,1 @@
+web: gunicorn main:app_flask -b 0.0.0.0:$PORT
